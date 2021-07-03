@@ -1,1 +1,2 @@
 text file1
+adding 2 lines
